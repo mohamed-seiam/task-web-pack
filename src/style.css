@@ -1,0 +1,23 @@
+body{
+    background-color:cornsilk;
+    margin: 0;
+    padding: 0;
+}
+h1{
+  font-family: 'Courier New', Courier, monospace;
+   
+    font-size: x-large;
+    margin: 0;
+    padding: 30px;
+    text-align: center;
+    color: black;
+    background-color:aliceblue;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+#img
+{
+    height: 70vh;
+}
